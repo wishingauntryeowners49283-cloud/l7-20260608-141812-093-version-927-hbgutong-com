@@ -1,0 +1,22 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "html_pages": 2015,
+  "missing_analytics_pages": [],
+  "movie_links_from_categories": 2000,
+  "jpg_files_in_zip": 0,
+  "m3u8_sources": 20,
+  "category_distribution": {
+    "日韩热播": 200,
+    "韩剧日剧": 200,
+    "免费电影": 200,
+    "爱情剧情": 200,
+    "动作犯罪": 200,
+    "悬疑惊悚": 200,
+    "科幻奇幻": 200,
+    "动漫番剧": 200,
+    "喜剧综艺": 200,
+    "经典片库": 200
+  }
+}
